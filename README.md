@@ -12,7 +12,7 @@
  a "pagar pedido" , este botón le redirigirá a una vista en la que tendrá que pagar lo que ha pedido introduciendo su correo electrónico, la empresa de delivery que quiera que le atienda y su tarjeta de crédito, entonces, este pedido se almacenará en la base de datos
  redirigiendo al cliente a una vista de "pedido finalizado", en la que podrá volver a platos o volver a inicio.
   
-## Sobre el proyecto
+## Tecnologías
  Las tecnologías que se han utilizado para este proyecto son:
   - Laravel : php, php faker, mysql + apache.
   - Bootstrap, css, html.
