@@ -1,0 +1,10 @@
+Botones de la tabla
+al darle tiene que ser un metodo que almacene el precio en un array
+
+cuando le demos al boton del formulario cliente
+-Tiene que meter al nuevo cliente**
+-Y el pedido en pedidos sumando el precio (o las posiciones del array) con el id del cliente
+
+
+OPCIONAL
+-en la tabla platos pedido, hay meter el id del pedido con sus platos
